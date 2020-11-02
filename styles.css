@@ -1,0 +1,93 @@
+
+body{
+    background-color: lightblue;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.2rem;
+    display: block;
+    margin-top: 60px;
+}
+
+div.sosmed{
+    text-align: center;
+}
+div.top{
+    background-color:black;
+    width: 100%;
+    height: 40px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+div.nama{
+     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+     text-align: center;
+     margin: auto;
+ }
+ h2.siswa{
+     color: black;
+     background-color: lightblue;
+    margin: auto;
+ }
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color:white;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+img.instagram{
+    display: inline-block;
+    margin: 10px;
+    width: 8%;
+}
+img.facebook{
+    display: inline-block;
+    margin: 10px;
+    width: 8%;
+}
+img.youtube{
+    display: inline-block;
+    margin: 10px;
+    width: 8%;
+}
+img.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  @media screen and (max-width:900px){
+    body{
+        font-size: 0.8rem;
+    }
+}
+a.part0:hover{
+    color: white;
+    background-color: darkcyan;
+}
+a.part1:hover{
+    color: white;
+    background-color: darkcyan;
+}
+a.part2:hover{
+    color: white;
+    background-color: darkcyan;
+}
+a.part3:hover{
+    color: white;
+    background-color: darkcyan;
+}
+a.part4:hover{
+    color: white;
+    background-color: darkcyan;
+}
+a.part5:hover{
+    color: white;
+    background-color: darkcyan;
+}
+a.part6:hover{
+    color: white;
+    background-color: darkcyan;
+}
